@@ -1,0 +1,206 @@
+[25-Oct-2015 23:03:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function absPathMerawat() in /home/rajareno/public_html/backend/application/controllers/merawat.php on line 227
+[25-Oct-2015 23:03:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function absPathMerawat() in /home/rajareno/public_html/backend/application/controllers/merawat.php on line 227
+[25-Oct-2015 23:03:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function absPathMerawat() in /home/rajareno/public_html/backend/application/controllers/merawat.php on line 227
+[25-Oct-2015 23:05:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function absPathMerawat() in /home/rajareno/public_html/backend/application/controllers/merawat.php on line 227
+[25-Oct-2015 23:10:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function absPathMerawat() in /home/rajareno/public_html/backend/application/controllers/merawat.php on line 227
+[10-Nov-2015 19:41:40 UTC] PHP Fatal error:  Call to undefined method CI_Upload::error_displays() in /home/mitraren/public_html/kunci/application/controllers/order.php on line 73
+[10-Nov-2015 19:41:42 UTC] PHP Fatal error:  Call to undefined method CI_Upload::error_displays() in /home/mitraren/public_html/kunci/application/controllers/order.php on line 73
+[10-Nov-2015 19:41:45 UTC] PHP Fatal error:  Call to undefined method CI_Upload::error_displays() in /home/mitraren/public_html/kunci/application/controllers/order.php on line 73
+[06-Apr-2016 07:01:17 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/mitraren/public_html/kunci/application/controllers/order.php on line 172
+[07-Jun-2016 14:09:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mitraren/public_html/mitrarenov_backend/application/models/m_product.php on line 26
+[07-Jun-2016 14:22:46 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:46 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:47 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:47 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:49 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:50 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:51 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:51 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:51 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:53 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:56 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:56 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:56 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:57 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[07-Jun-2016 14:22:58 UTC] PHP Notice:  Use of undefined constant SERVER - assumed 'SERVER' in /home/mitraren/public_html/mitrarenov_backend/application/config/constants.php on line 55
+[11-Jun-2016 06:03:01 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:03 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:04 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:04 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:04 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:04 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:04 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:04 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:10 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:11 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[11-Jun-2016 06:03:11 UTC] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/mitraren/public_html/mitrarenov_backend/application/controllers/transaction.php on line 577
+[13-Jun-2016 07:54:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mitraren/public_html/mitrarenov_backend/application/models/m_product.php on line 26
+[13-Jun-2016 07:54:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mitraren/public_html/mitrarenov_backend/application/models/m_product.php on line 26
+[13-Jun-2016 10:05:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/mitraren/public_html/mitrarenov_backend/application/models/m_product.php on line 26
+[17-Jun-2016 02:18:10 America/New_York] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 586
+[17-Jun-2016 02:18:15 America/New_York] PHP Fatal error:  Call to undefined method Transaction::upload_image_upload() in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 586
+[20-Jun-2016 12:29:53 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:30:17 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:30:31 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:30:51 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:30:58 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:35:07 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:36:57 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:44:00 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:44:32 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:46:04 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:46:59 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:47:06 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:47:17 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:51:23 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:51:56 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:52:44 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 653
+[20-Jun-2016 12:53:30 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 866
+[20-Jun-2016 12:54:11 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 866
+[20-Jun-2016 12:54:43 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 830
+[20-Jun-2016 12:54:47 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 890
+[20-Jun-2016 12:56:03 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 890
+[20-Jun-2016 12:56:44 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 890
+[20-Jun-2016 12:57:05 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 890
+[20-Jun-2016 12:58:20 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1055
+[20-Jun-2016 12:58:33 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1055
+[20-Jun-2016 12:58:36 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1055
+[20-Jun-2016 12:59:46 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 12:59:47 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 13:00:05 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 13:01:33 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 863
+[20-Jun-2016 13:02:30 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 863
+[20-Jun-2016 13:03:07 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 178
+[20-Jun-2016 13:04:01 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 862
+[20-Jun-2016 13:04:05 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 862
+[20-Jun-2016 13:04:33 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 862
+[20-Jun-2016 13:04:59 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 862
+[20-Jun-2016 13:16:07 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 13:16:09 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 13:16:19 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[20-Jun-2016 13:16:38 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 891
+[22-Jun-2016 00:07:07 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 220
+[22-Jun-2016 00:07:10 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 220
+[22-Jun-2016 04:39:20 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:39:21 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:39:23 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:39:32 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:40:01 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:40:03 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:41:00 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:41:02 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:41:07 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:41:10 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[22-Jun-2016 04:41:13 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/k2730383/public_html/backend/application/libraries/CustomEmail.php on line 114
+[23-Jun-2016 03:57:58 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 03:58:16 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 03:59:19 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 04:37:00 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 04:45:25 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 04:45:38 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 04:46:50 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 04:47:19 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 04:47:53 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[23-Jun-2016 04:48:29 America/New_York] PHP Fatal error:  Call to a member function result() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 909
+[27-Jun-2016 00:30:32 America/New_York] PHP Fatal error:  Function name must be a string in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1295
+[27-Jun-2016 00:38:04 America/New_York] PHP Fatal error:  Function name must be a string in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1296
+[27-Jun-2016 00:39:12 America/New_York] PHP Fatal error:  Function name must be a string in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1296
+[27-Jun-2016 00:40:24 America/New_York] PHP Fatal error:  Function name must be a string in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1294
+[27-Jun-2016 00:41:15 America/New_York] PHP Fatal error:  Function name must be a string in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1294
+[27-Jun-2016 00:49:34 America/New_York] PHP Fatal error:  Function name must be a string in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1296
+[27-Jun-2016 00:50:25 America/New_York] PHP Fatal error:  Call to undefined function Pekerjaan_Struktur() in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1296
+[27-Jun-2016 00:52:36 America/New_York] PHP Fatal error:  Call to undefined function Pekerjaan_Struktur() in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1296
+[27-Jun-2016 00:53:49 America/New_York] PHP Fatal error:  Call to undefined function Pekerjaan_Struktur() in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1296
+[27-Jun-2016 00:55:42 America/New_York] PHP Fatal error:  Call to undefined function Pekerjaan_Struktur() in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1296
+[29-Jun-2016 02:13:26 America/New_York] PHP Fatal error:  Call to undefined function assetFrontend() in /home/k2730383/public_html/backend/application/views/template/tpl.php on line 10
+[16-Aug-2016 04:40:40 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:40:43 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:40:57 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:42:11 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:42:30 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:43:48 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:44:03 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:44:07 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:48:49 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:48:51 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:53:10 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:54:37 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:54:38 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[16-Aug-2016 04:54:40 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k2730383/public_html/backend/application/models/m_email.php on line 1
+[17-Aug-2016 22:57:27 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 22:57:41 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 22:59:49 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:00:00 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:03:36 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:03:50 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:05:05 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:05:08 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:06:17 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:10:46 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:12:55 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:13:04 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:15:24 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:16:02 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:17:54 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:19:40 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:19:57 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:21:32 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[17-Aug-2016 23:24:11 America/New_York] PHP Fatal error:  Call to undefined method M_setting_website::get_list_newsletter() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 579
+[20-Aug-2016 10:38:08 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[20-Aug-2016 10:40:21 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[20-Aug-2016 10:48:28 America/New_York] PHP Fatal error:  Call to a member function get_list_email_project() on a non-object in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 1155
+[20-Aug-2016 11:31:21 America/New_York] PHP Fatal error:  Call to a member function row() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1408
+[20-Aug-2016 11:31:46 America/New_York] PHP Fatal error:  Call to a member function row() on a non-object in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1408
+[28-Aug-2016 22:25:19 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:25:24 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:25:30 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:25:34 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:06 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:07 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:10 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:11 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:11 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:12 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:12 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:12 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:13 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:27:36 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:28:14 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:20 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:27 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:28 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:28 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:29 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:29 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:29 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:30 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:30 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:30 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:31 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:31 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:31 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:32 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:32 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:32 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:32 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:33 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:33 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:34 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:34 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:28:57 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 1177
+[28-Aug-2016 22:29:12 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 1177
+[28-Aug-2016 22:29:44 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 1177
+[28-Aug-2016 22:29:47 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 1177
+[28-Aug-2016 22:37:16 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:50:44 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:51:11 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 975
+[28-Aug-2016 22:51:41 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 1177
+[28-Aug-2016 22:53:04 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:58:31 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 636
+[28-Aug-2016 22:59:09 America/New_York] PHP Fatal error:  Call to undefined function absPathEmail() in /home/k2730383/public_html/backend/application/controllers/setting_website.php on line 1177
+[01-Sep-2016 12:07:27 America/New_York] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 1325
+[16-Sep-2016 15:28:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method Promo_paket::upload_image_promo_paket() in /home/k2730383/public_html/backend/application/controllers/promo_paket.php on line 102
+[16-Sep-2016 15:29:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method Promo_paket::upload_image_promo_paket() in /home/k2730383/public_html/backend/application/controllers/promo_paket.php on line 102
+[16-Sep-2016 15:32:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method Promo_paket::upload_image_promo_paket() in /home/k2730383/public_html/backend/application/controllers/promo_paket.php on line 103
+[22-Sep-2016 11:37:34 America/New_York] PHP Parse error:  syntax error, unexpected '$project_id' (T_VARIABLE) in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 793
+[22-Sep-2016 11:37:54 America/New_York] PHP Parse error:  syntax error, unexpected '$project_id' (T_VARIABLE) in /home/k2730383/public_html/backend/application/controllers/transaction.php on line 793
